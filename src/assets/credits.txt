@@ -1,0 +1,5 @@
+
+Logo: https://cdn2.iconfinder.com/data/icons/food-vol-5-1/96/240-512.png
+Header Img: https://www.theamantolarestaurant.co.uk/wp-content/uploads/2016/12/slider-food.png
+
+API: https://themealdb.com/api.php
